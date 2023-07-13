@@ -15,10 +15,29 @@ Korea
 
 저의 취미는 스케이트보드(🛹)와 낚시(🎣)입니다
 
-SNS
--------------------------------------------------------------------------------------------------------------
+
+
+<h3 align="center"><b>💌 Social 💌 </b></h3>
+</br>
+<p align="center">
 <a href="https://www.instagram.com/k.c_y.v/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+<h3 align="center"><b>📚 Languages 📚</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+<h3 align="center"><b>🎮 Gaming 🎮</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+</p>
