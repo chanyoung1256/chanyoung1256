@@ -14,3 +14,9 @@ Korea
 현재 Unity Engine을 사용하여 c#언어와 학교 교육과정에서 JAVA언어와 Python언어를 학습하고 있습니다.
 
 저의 취미는 스케이트보드(🛹)와 낚시(🎣)입니다
+
+<a href="https://www.instagram.com/k.c_y.v/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
