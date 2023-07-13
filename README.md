@@ -50,4 +50,4 @@ Korea
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyoung1256&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy1256)](https://solved.ac/cy1256/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy1256)](https://solved.ac/hayoun020617@gamil.com/)
