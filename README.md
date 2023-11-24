@@ -24,15 +24,34 @@ Korea
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<h3 align="center"><b>📚 Languages 📚</b></h3>
-</br>
+<!-- Skills -->
+<h2 align="left">⚡ Skills</h2>
+<h3 align="center"><b>Tools</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
+    <img src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white"
+         alt="Clion badge">
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"
+         alt="IntelliJ badge">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"
+         alt="PyCharm badge">
+    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"
+         alt="WebStorm badge">
+</p>
+<h3 align="center"><b>Languages</b></h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C badge">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ badge">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+         alt="Python badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"
+         alt="JavaScript badge">
+    <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge">
+</p>
+<h3 align="center"><b>Frameworks</b></h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"
+         alt="CMake badge">
+</p>
 </p>
 
 <h3 align="center"><b>🎮 Gaming 🎮</b></h3>
