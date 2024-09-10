@@ -2,16 +2,15 @@
 
 English
 -------------------------------------------------------------------------------------------------------------
-Hello, I am a student at Hallym University and my name is Kim Chan Young. My major is Big Data and my double major 
-is Convergence Science and Investigation. I hope to be a front and back and web developer.
-I am currently studying java, c, and java script.
+Hello, I am a student at Hallym University and my name is Kim Chan Young. 
+My major is big data and my double major is smart IoT. 
+I am studying security research in my future dream
 
 My hobby is skateboarding(🛹) and fishing(🎣)
 
 Korea
 -------------------------------------------------------------------------------------------------------------
-안녕하세요, 한림대학교 재학중이며 이름은 김찬영입니다. 전공은 빅데이터학과 이며 복수전공은 융합과학수사학과 입니다 장래희망에 프론트, 백앤드 웹 개발자 입니다.
-제가 현재 java, c, javascript를 공부 하고 있습니다. 
+안녕하세요, 한림대학교 재학중이며 이름은 김찬영입니다. 전공은 빅데이터 이며 복수전공은 스마트IOT 입니다 장래희망에 보안 연구쪽 으로 계속 공부 중입니다 
 
 
 저의 취미는 스케이트보드(🛹)와 낚시(🎣)입니다
