@@ -84,6 +84,9 @@
 ![상장](https://github.com/user-attachments/assets/3f8ff416-d5ff-4868-ae50-48f4ae8daf58)
 - 정보보호학회 동계 학술대회 2저자 논문 작성
 - CISC 동계 학술대회 참여
+[포스터_논문.pdf](https://github.com/user-attachments/files/20498205/_.pdf)
+
+
 <br>
 
 ## 2025
