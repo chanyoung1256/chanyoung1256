@@ -92,7 +92,9 @@
 ## 2025
 - 교내 상생러닝디딤돌 멘토링
 - 교내 하계 해외 SW연수(Utah)대학교
-- 
+- Hallym International Buddy 40th
+
+  
 ## 📈 GitHub 활동
 
 <p align="center">
