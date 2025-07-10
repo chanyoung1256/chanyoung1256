@@ -94,13 +94,6 @@
 - 교내 하계 해외 SW연수(Utah)대학교
 - Hallym International Buddy 40th
 
-  
-## 📈 GitHub 활동
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanyoung1256&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyoung1256&layout=compact&theme=dark" alt="Top Langs" />
-</p>
 
 ---
 
