@@ -1,5 +1,5 @@
-<h1 align="center">안녕하세요 👋 저는 [김찬영]입니다!</h1>
-<p align="center">🌱 끊임없이 배우고 성장하고있는 풀스택 개발자입니다.</p>
+<h1 align="center"> Hello 👋 </h1>
+<p align="center"> 🌱 끊임없이 배우고 성장하고있는 개발자입니다. 🌱 </p>
 
 ---
 
