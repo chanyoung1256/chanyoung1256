@@ -5,49 +5,67 @@
 
 ## 🛠️ 사용 가능한 기술 스택
 
-### 🖥️ 프론트엔드
-
+### 🖥️ Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white" />
 </p>
 
-### ⚙️ 백엔드
+---
 
+### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white" alt="JSP" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 </p>
 
-☁️ 서버
+---
+
+### ☁️ 서버 및 배포
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" /> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" /> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </p>
 
-🗄️ 데이터베이스
-<p> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /> 
-  <img src="https://img.shields.io/badge/Supabase%20SQL-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase SQL" /> 
+---
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-### 💻 프로그래밍 언어
+---
+
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
 </p>
+
+---
+
+### 🧰 Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</p>
+
 ---
 
 # 🏆 수상 경력 및 주요 활동
