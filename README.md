@@ -118,6 +118,9 @@
 - 교내 하계 해외 SW연수(Utah)대학교  
 - Hallym International Buddy 40th  
 - HumAIn 연구실 학부생  
+- 교내 SW중심대학사업단 SW week 아이디어 해커톤 대회(동상)🥉
+![상장](https://github.com/user-attachments/assets/f3862d31-cc42-42a9-ba32-3ae1546c2f11)
+  
 
 <hr style="border:0.5px solid #ccc; margin:20px 0;">
 
