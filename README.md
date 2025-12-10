@@ -3,7 +3,7 @@
 
 <hr style="border:0.5px solid #ccc; margin:20px 0;">
 <h2 align="center">🛠️ Tech Stack</h2>
-<p align="center">컬러 아이콘 기반 카드형 UI</p>
+<p align="center">Card Stack</p>
 
 <br/>
 
