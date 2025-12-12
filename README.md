@@ -148,6 +148,10 @@
 - HumAIn 연구실 학부생  
 - 교내 SW중심대학사업단 SW week 아이디어 해커톤 대회(동상)🥉
 ![상장](https://github.com/user-attachments/assets/f3862d31-cc42-42a9-ba32-3ae1546c2f11)
+
+## 2026
+- Hallym International Buddy
+- 한림대학교 글로벌교류센터 동계방학 단기연수캠프 키르기스스탄 학생 대표 멘토
   
 
 <hr style="border:0.5px solid #ccc; margin:20px 0;">
