@@ -152,7 +152,7 @@
 
 <br><br>
 
-- 소프트웨어캡스톤 금상  
+- 2025년 2학기 SW캡스톤디자인 경진대회 — 금상
 
 <img src="https://github.com/user-attachments/assets/6cb3668b-5946-4132-a862-9e57b4920c3b" width="500" />
 
