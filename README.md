@@ -133,21 +133,28 @@
 - 데이터 기반 사이버 보안 DCRL 연구실 학부생  
 - 교내 SW중심대학사업단 SW week C.愛.랑 동아리 전시회 (부릉부릉) 대회(은상)🥈  
 
-![상장](https://github.com/user-attachments/assets/3f8ff416-d5ff-4868-ae50-48f4ae8daf58)
+<img src="https://github.com/user-attachments/assets/3f8ff416-d5ff-4868-ae50-48f4ae8daf58" width="500" />
 
 - 정보보호학회 동계 학술대회 2저자 논문 작성  
 - CISC 동계 학술대회 참여  
-[포스터_논문.pdf](https://github.com/user-attachments/files/20498205/_.pdf)
+<a href="https://github.com/user-attachments/files/20498205/_.pdf">포스터_논문.pdf</a>
 
-<br>
+<br><br>
 
 ## 2025
 - 교내 상생러닝디딤돌 멘토링  
 - 교내 하계 해외 SW연수(Utah)대학교  
 - Hallym International Buddy 40th  
 - HumAIn 연구실 학부생  
-- 교내 SW중심대학사업단 SW week 아이디어 해커톤 대회(동상)🥉
-![상장](https://github.com/user-attachments/assets/f3862d31-cc42-42a9-ba32-3ae1546c2f11)
+- 교내 SW중심대학사업단 SW week 아이디어 해커톤 대회(동상)🥉  
+
+<img src="https://github.com/user-attachments/assets/f3862d31-cc42-42a9-ba32-3ae1546c2f11" width="500" />
+
+<br><br>
+
+- 소프트웨어캡스톤 금상  
+
+<img src="https://github.com/user-attachments/assets/6cb3668b-5946-4132-a862-9e57b4920c3b" width="500" />
 
 ## 2026
 - Hallym International Buddy
