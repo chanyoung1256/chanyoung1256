@@ -106,20 +106,22 @@ style="filter: invert(75%) brightness(110%);" />
   <li><b>학생회</b>
     <ul>
       <li>2019 · 화천정보산업고등학교 전교회장</li>
-      <li>제2대 정보과학대 학생회 “SEASON” 총무부장</li>
-      <li>제3대 정보과학대 학생회 “READY” 총무부장</li>
+      <li>한림대학교 제2대 정보과학대 학생회 “SEASON” 총무부장</li>
+      <li>한람대헉교 제3대 정보과학대 학생회 “READY” 총무부장</li>
     </ul>
   </li>
   <li><b>동아리</b>
     <ul>
       <li>2023 · 한림대학교 학술동아리 C.愛.랑 운영부장</li>
       <li>2024 · 한림대학교 학술동아리 C.愛.랑 부회장</li>
+      <li>2025 · 한림대학교 RISE 사업 [스마트 라이프 케어트랙] 설계 협의체 학생 위원 </li>
     </ul>
   </li>
   <li><b>연구</b>
     <ul>
       <li>2024 · 데이터 기반 사이버보안 DCRL 연구실 학부생</li>
       <li>2025 · HumAIn 연구실 학부생</li>
+      <li>2026 · HumAIn 연구실 학부생</li>
     </ul>
   </li>
   <li><b>학술</b>
@@ -132,9 +134,10 @@ style="filter: invert(75%) brightness(110%);" />
   </li>
   <li><b>글로벌</b>
     <ul>
-      <li>Utah 대학 하계 해외 SW 연수</li>
-      <li>Hallym International Buddy</li>
-      <li>한림대학교 키르기스스탄 학생 단기 연수 학생대표 멘토</li>
+      <li>2025 · Utah 대학 해외 SW 연수</li>
+      <li>2025 · Hallym International Buddy 40th </li>
+      <li>2025 · 한림대학교 키르기스스탄 학생 단기 연수 학생대표 멘토</li>
+      <li>2026 · Hallym International Buddy 41th </li>
     </ul>
   </li>
 </ul>
@@ -147,7 +150,6 @@ style="filter: invert(75%) brightness(110%);" />
   <li>Email: hayoun124@naver.com</li>
   <li>KakaoTalk: cy0617</li>
   <li>Blog: <a href="https://blog.naver.com/k-c_y-v">Naver Blog</a></li>
-  <li>Project: <a href="http://www.chanbob.com">www.chanbob.com</a></li>
 </ul>
 
 <hr/>
