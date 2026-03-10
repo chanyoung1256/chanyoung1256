@@ -115,13 +115,14 @@ style="filter: invert(75%) brightness(110%);" />
       <li>2023 · 한림대학교 학술동아리 C.愛.랑 운영부장</li>
       <li>2024 · 한림대학교 학술동아리 C.愛.랑 부회장</li>
       <li>2025 · 한림대학교 RISE 사업 [스마트 라이프 케어트랙] 설계 협의체 학생 위원 </li>
+      <li>2026 · Hallym university International Buddy 41th management </li>
     </ul>
   </li>
   <li><b>연구</b>
     <ul>
-      <li>2024 · 데이터 기반 사이버보안 DCRL 연구실 학부생</li>
-      <li>2025 · HumAIn 연구실 학부생</li>
-      <li>2026 · HumAIn 연구실 학부생</li>
+      <li>2024 · Hallym university 데이터 기반 사이버보안 DCRL 연구실 학부생</li>
+      <li>2025 · Hallym university HumAIn 연구실 학부생</li>
+      <li>2026 · Hallym university HumAIn 연구실 학부생</li>
     </ul>
   </li>
   <li><b>학술</b>
@@ -136,7 +137,7 @@ style="filter: invert(75%) brightness(110%);" />
     <ul>
       <li>2025 · Utah 대학 해외 SW 연수</li>
       <li>2025 · Hallym International Buddy 40th </li>
-      <li>2025 · 한림대학교 키르기스스탄 학생 단기 연수 학생대표 멘토</li>
+      <li>2025 · Hallym university 키르기스스탄 학생 단기 연수 학생대표 멘토</li>
       <li>2026 · Hallym International Buddy 41th </li>
     </ul>
   </li>
