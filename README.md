@@ -110,12 +110,13 @@ style="filter: invert(75%) brightness(110%);" />
       <li>한람대헉교 제3대 정보과학대 학생회 “READY” 총무부장</li>
     </ul>
   </li>
-  <li><b>동아리</b>
+  <li><b>학술</b>
     <ul>
       <li>2023 · 한림대학교 학술동아리 C.愛.랑 운영부장</li>
       <li>2024 · 한림대학교 학술동아리 C.愛.랑 부회장</li>
       <li>2025 · 한림대학교 RISE 사업 [스마트 라이프 케어트랙] 설계 협의체 학생 위원 </li>
       <li>2026 · Hallym university International Buddy 41th management </li>
+      <li>2026 · 한림대학교 AI 교육 솔루션의 AI 조교 고도화 - 주식회사 엘렉시 근로자 -
     </ul>
   </li>
   <li><b>연구</b>
